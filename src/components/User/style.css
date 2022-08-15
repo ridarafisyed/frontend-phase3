@@ -1,0 +1,23 @@
+/** @format */
+
+.activeButton {
+	color: #4bb543;
+	background: #4bb543;
+}
+.activeButton:hover {
+	color: #4bb545;
+	background: #4bb545;
+}
+
+.disableButton {
+	color: #d3d3d3;
+	background: #d3d3d3;
+}
+.disableButton:hover {
+	color: #d3d3d3;
+	background: #d3d3d3;
+}
+.toggleButton {
+	background-color: none;
+	width: 3rem;
+}
